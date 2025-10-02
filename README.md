@@ -1,4 +1,4 @@
-# 🎵 AI-Powered Voice Interview System
+# 🎵 AI-Powered Onboarding System
 
 A comprehensive multi-agent AI system for automated student onboarding and selection, featuring voice analysis and intelligent scoring.
 
