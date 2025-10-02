@@ -1,0 +1,8 @@
+Task for today 
+Quiz generator 
+Quiz checker 
+Top 10 extractor and emailing to all 10% to submit video then video will be submitted as any public youtube/drive video link
+video checker/transcript generator 
+finalizer/Analyze transcript , it will analyze the qualifying students and send emails 
+
+use tools from crewai documentation , save this data to database
